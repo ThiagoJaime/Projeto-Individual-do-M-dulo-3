@@ -1,5 +1,5 @@
 {
-    "sessão Biscoito": [
+    "sessaoBiscoito": [
       {
         "id": 1,
         "nome": "Biscoito de maizena",
@@ -32,7 +32,7 @@
       }
     ],
 
-    "Sessão açougue": [
+    "Sessaoacougue": [
       {
         "id": 1,
         "nome": "Alcatra moida",
@@ -65,7 +65,7 @@
     
       }
     ],
-      "Sessão Hortifruti": [
+      "SessaoHortifruti": [
         {
           "id": 1,
           "nome": "Alface",
@@ -96,7 +96,7 @@
         }
       
     ],  
-    "Sessão de Bebidas": [
+    "SessaodeBebidas": [
       {
         "id": 1,
         "nome": "Whisky Buchanan&#39;s 12 Anos ",
