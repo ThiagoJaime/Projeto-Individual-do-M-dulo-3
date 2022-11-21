@@ -1,0 +1,130 @@
+{
+    "sessão Biscoito": [
+      {
+        "id": 1,
+        "nome": "Biscoito de maizena",
+        "descrição": "500g de amido de milho,200g de manteiga sem sal (ou margarina sem sal),1 lata de leite condensado (395g)",
+        "preco": 2.0,
+        "categoria_id": 1
+      },
+      {
+        "nome": "Biscoito Piraquê de Chocolate",
+        "descrição": "Farinha de trigo enriquecida com ferro e ácido fólico, açúcar, gordura vegetal, cacau em pó, soro de leite em pó, maltodextrina, açúcar invertido, extrato de malte, amido de milho*, sal, emulsificantes: lecitina de soja e estearoil lactilato de cálcio, fermentos químicos: bicarbonato de sódio e fosfato monocálcico, aromatizantes e antioxidante ácido cítrico.",
+        "preco": 3.99,
+        "categoria_id": 1,
+        "id": 2
+      },
+
+      {
+        "nome": "Rosquinha Piraquê de Chocolate",
+        "descrição": "Ingredientes:Farinha de trigo enriquecida com ferro e ácido fólico, açúcar, gordura vegetal, cacau em pó, amido*, açúcar invertido, soro de leite em pó, sal, emulsificantes: estearoil lactilato de cálcio e lecitina de soja, aromatizantes, fermentos químicos: bicarbonato de sódio e fosfato monocálcico e estabilizante polidextrose.",
+        "preco": 4.99,
+        "categoria_id": 1,
+        "id": 3
+      },
+
+      {
+        "nome": "Passatempo Chocolate",
+        "descrição": "O biscoito queridinho de Passatempo está de cara nova da casquinha ao recheio, divertido como sempre, saboroso como nunca. A nova fórmula*, além de uma casquinha mais crocante e assada, traz um sabor ainda mais intenso de chocolate, feito com Chocolate Nestlé. Não perca essa novidade, corra e garanta o da sua família.*Inclusão de chocolate. Exclusão de margarina e corante caramelo III. Teor de Gordura Totais alterado de 8% para 9%, Fibra Alimentar de 2% para 3%, Cálcio de 25% para 33% e Zinco de20% para 30% dos Valores Diários de referência Passatempo traz uma nova fórmula para o icônico biscoito de casquinha branca com recheio de chocolate. Agora ainda mais gostoso Deliciosamente crocante Feito com leite ",
+        "preco": 2.99,
+        "categoria_id": 1,
+        "id": 4
+      }
+    ],
+
+    "Sessão açougue": [
+      {
+        "id": 1,
+        "nome": "Alcatra moida",
+        "descrição": "Valor calórico 157,47 kcal Carboidratos 1,32 g Proteínas 20,79 g,Gorduras totais 7,67 gGorduras saturadas 2,76 Colesterol 48,03 mgFibras 0 gCálcio 11,14 mgFerro 1,73 mgSódio 61,87 mg",
+        "preco": 35.00,
+        "categoria_id": 1
+      },
+      {
+        "nome": "Picanha",
+        "descrição": "A Picanha é um corte muito saboroso e de formato triangular que fica localizado na parte traseira do boi. No tradicional churrasco ela pode ser assada inteira, em postas, no espeto ou na grelha, mas também rende elogios em assados, bifes ou carnes de panela. MODO DE PREPARO: ASSAR, CHURRASCO, GRELHAR",
+        "preco": 10.0,                                                                           
+        "categoria_id": 1,
+        "id": 2
+    
+      },
+      {
+        "nome": "Asa de Frango Congelada",
+        "descrição": "Cortes congelados de frango. packing: Pacote",
+        "preco": 15.0,                                                                           
+        "categoria_id": 1,
+        "id": 3
+    
+      },
+      {
+        "nome": "Linguiça",
+        "descrição": "Carne de frango, água, gordura de frango, proteína de soja, sal, açúcar, cebola, pimenta, alho, salsa, coentro, nóz-moscada, regulador de acidez: lactato de sódio, estabilizante: tripolifosfato de sódio, realçador de sabor: glutamato monossódico, antioxidante: isoascorbato de sódio, aromatizante: aroma natural de extrato de alecrim, conservador: nitrito de sódio.,NÃO CONTÉM GLÚTEM.",
+        "preco": 12.0,                                                                           
+        "categoria_id": 1,
+        "id": 4
+    
+      }
+    ],
+      "Sessão Hortifruti": [
+        {
+          "id": 1,
+          "nome": "Alface",
+          "descrição": "Muda de alface Crespa. Tenha sua horta orgânica em casa, alface crespa de excelente qualidade, livre de agrotóxicos.",
+          "preco": 0.99,
+          "categoria_id": 1
+        },
+        {
+          "nome": "Tomate italiano",
+          "descrição": "Aprox. 400g/ud",
+          "preco": 8.5,
+          "categoria_id": 1,
+          "id": 2
+        },
+        {
+          "nome": "Alho",
+          "descrição": "Fonte de vitaminas A, C, E e algumas do complexo B",
+          "preco": 20.0,
+          "categoria_id": 1,
+          "id": 3
+        },
+        {
+          "nome": "Maracujá",
+          "descrição":"Este fruto é fonte de vitaminas A, C e do complexo B. Além disso, apresenta boa quantidade de sais minerais (ferro, sódio, cálcio e fósforo).",
+          "preco": 2.5,
+          "categoria_id": 1,
+          "id": 4
+        }
+      
+    ],  
+    "Sessão de Bebidas": [
+      {
+        "id": 1,
+        "nome": "Whisky Buchanan&#39;s 12 Anos ",
+        "descrição": "O Whisky Buchanan's Deluxe É O Reflexo Da Criação De James Buchanan's Em 1884, Um Blend Tão Leve, Suave E Refinado Que Veio A Consagrá-lo Como Fornecedor Oficial De Whisky Do Parlamento Britânico. Agora Também Em Nova Litragem, 750ml, Contendo Mesmo Líquido E Layout Da Garrafa Já Consagrada De 750ml",
+        "preco": 117.23,
+        "categoria_id": 1
+      },
+      {
+        "nome": "Kit Premium Caixa Whisky Jack Daniels 375ml + Copo + Dosador",
+        "descrição": "Kit Whisky Jack Daniel's 375ml com caixa em mdf preta + copo de vidro + dosador O Kit contém: - 01 Garrafa de Whisky Jack Daniel's Old n.7 (375ml) - Original, lacrada, com nf e garantia - 01 Caixa de mdf na cor preta (medidas: 22x18x9cm) - 01 Copo de vidro para Whisky Jack Daniel's 315 ml com logo impresso (não é adesivo) - 01 Dosador em inox (40ml) -",
+        "preco": 197.30,
+        "categoria_id": 1,
+        "id": 2
+      },
+      {
+        "nome": "Whisky Buchanan'",
+        "descrição":"Whisky Buchanan's Deluxe Aged 12 Years 1L",
+        "preco": 149.30,
+        "categoria_id": 1,
+        "id": 3 
+      },
+      {
+        "nome": "Ballantine's Finest Whisky Escocês 1L",
+        "descrição":"Nós fazemos o whisky, você faz do seu jeito #comovocêgosta",
+        "preco": 99.30,
+        "categoria_id": 1,
+        "id": 4
+      }
+      
+    ]
+} 
