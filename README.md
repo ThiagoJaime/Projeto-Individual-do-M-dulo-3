@@ -6,10 +6,10 @@
 <h1>:popcorn: TEMA:</h1>
 <p> Para a realização do projeto o tema escolhido foi: <b>ALIMENTOS</b>. o Projeto possui quatro (04) rotas, onde cada uma possui cinco (05) ou mais dados pré-preenchidos (mockados). <br><br><b>AS ROTAS:</b>
 <ul>
-<li><b>Biscoito</b> -- mostra os filmes em cartaz no cinema.</li>
-<li><b>Açougue</b> -- informações sobre os filmes em cartaz.</li>
-<li><b>Hortifruti</b> -- informações sobre o preço para assistir os filmes. </li>
-<li><b>Bebidas</b> -- informações sobre em quais cinemas os filmes estarão disponíveis.</li>
+<li><b>Biscoito</b> -- informações sobre os tipos de biscoitos.</li>
+<li><b>Açougue</b> -- informações sobre os tipos de carne.</li>
+<li><b>Hortifruti</b> -- informações sobre os produtos do hortifruti. </li>
+<li><b>Bebidas</b> -- informações sobre os tipos de bebida.</li>
 </ul>
 <h1>:writing_hand: TECNOLOGIAS USADAS:</h1>
 <ul>
